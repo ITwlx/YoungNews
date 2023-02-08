@@ -1,0 +1,25 @@
+{
+  "miniprogramRoot": "unpackage/dist/dev/mp-weixin/",
+  "appid": "touristappid",
+  "compileType": "miniprogram",
+  "libVersion": "2.28.1",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "condition": {},
+  "setting": {
+    "urlCheck": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "bigPackageSizeSupport": true
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "srcMiniprogramRoot": "dist/dev/mp-weixin/"
+}
